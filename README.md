@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy Policy for SaveMea pp
+Privacy Policy for SaveMe app
